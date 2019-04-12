@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "fwewef",
+      "description": "fwefwer2343",
+      "id": 1
+    },
+    {
+      "title": "my stream",
+      "description": "strem description",
+      "id": 2
+    },
+    {
+      "title": "changed? test",
+      "description": "it did!",
+      "id": 5
+    },
+    {
+      "title": "Real stream",
+      "description": "Streaming this thing",
+      "userId": "108823833095856511975",
+      "id": 6
+    }
+  ]
+}
